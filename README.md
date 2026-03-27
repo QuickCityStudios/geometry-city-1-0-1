@@ -1,0 +1,1 @@
+Versão estável 1.0.1 do Geometry City: Um desafio rítmico de alta performance feito 100% em código nativo, sem frameworks. Explore a nova interface Reset UI, desbloqueie cores na loja de skins e acompanhe seu progresso em tempo real com a barra de porcentagem. Jogo leve, responsivo e otimizado para mobile.
